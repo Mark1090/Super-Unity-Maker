@@ -37,7 +37,7 @@ public class LevelManager : MonoBehaviour {
 
     public void Save()
     {
-        level = (@"C:\Levels\" + level_name + @".uml");
+        level = (@"C:\Levels\" + level_name + @".bin");
         var path = (@"C:\Levels\");
         if (!Directory.Exists(path))
         {
@@ -64,6 +64,12 @@ public class LevelManager : MonoBehaviour {
     }
     public void Load()
     {
+        makerTiles = GameObject.FindObjectsOfType<MakerTile>();
+        foreach (var i in makerTiles)
+        {
+            Destroy(i.gameObject);
+        }
+
         IFormatter formatter = new BinaryFormatter();
         Stream stream = new FileStream(level,
                                       FileMode.Open,

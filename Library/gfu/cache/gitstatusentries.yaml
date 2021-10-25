@@ -13,1304 +13,1140 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-10-24T13:22:42.672+02:00
-  initializedAtString: 2021-10-24T13:13:44.981+02:00
+  lastUpdatedAtString: 2021-10-24T13:40:33.791+02:00
+  initializedAtString: 2021-10-24T13:39:21.061+02:00
   entries:
-  - path: .vs\Mario Maker Like Game\v15\Server\sqlite3\db.lock
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\.vs\Mario Maker Like
-      Game\v15\Server\sqlite3\db.lock
-    projectPath: .vs\Mario Maker Like Game\v15\Server\sqlite3\db.lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: .vs\Mario Maker Like Game\v15\Server\sqlite3\storage.ide
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\.vs\Mario Maker Like
-      Game\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\Mario Maker Like Game\v15\Server\sqlite3\storage.ide
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: .vs\YoutubeVersion\v15\Server\sqlite3\db.lock
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\.vs\YoutubeVersion\v15\Server\sqlite3\db.lock
-    projectPath: .vs\YoutubeVersion\v15\Server\sqlite3\db.lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: .vs\YoutubeVersion\v15\Server\sqlite3\storage.ide
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\.vs\YoutubeVersion\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\YoutubeVersion\v15\Server\sqlite3\storage.ide
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Main.unity
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Main.unity
-    projectPath: Assets\Main.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Main.unity.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Main.unity.meta
-    projectPath: Assets\Main.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Plugins.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins.meta
-    projectPath: Assets\Plugins.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub.meta
-    projectPath: Assets\Plugins\GitHub.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor.meta
-    projectPath: Assets\Plugins\GitHub\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\credits.txt
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\credits.txt
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\credits.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\eula.txt
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\eula.txt
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\eula.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\libsfw.bundle
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\libsfw.so
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\sfw.net.dll
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\System.Threading.dll
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x64.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x86.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Scenes.meta
-    projectPath: Assets\Scenes.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\LevelCreator.unity
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Scenes\LevelCreator.unity
-    projectPath: Assets\Scenes\LevelCreator.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\LevelCreator.unity.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Scenes\LevelCreator.unity.meta
-    projectPath: Assets\Scenes\LevelCreator.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\MainScreen.unity
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Scenes\MainScreen.unity
-    projectPath: Assets\Scenes\MainScreen.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\MainScreen.unity.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Scenes\MainScreen.unity.meta
-    projectPath: Assets\Scenes\MainScreen.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scripts\LoadScene.cs
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Scripts\LoadScene.cs
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Assets\Scripts\LoadScene.cs
     projectPath: Assets\Scripts\LoadScene.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\LoadScene.cs.meta
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Assets\Scripts\LoadScene.cs.meta
-    projectPath: Assets\Scripts\LoadScene.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-    projectPath: Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Level.uml
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Level.uml
-    projectPath: Level.uml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ArtifactDB
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ArtifactDB
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
-    projectPath: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
-    projectPath: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\09\09e13021efa6e1584e23afcc22cad82f
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\09\09e13021efa6e1584e23afcc22cad82f
-    projectPath: Library\Artifacts\09\09e13021efa6e1584e23afcc22cad82f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-    projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
-    projectPath: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
-    projectPath: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6a\6aafca035d28e6248f98ea62fd174c91
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\6a\6aafca035d28e6248f98ea62fd174c91
-    projectPath: Library\Artifacts\6a\6aafca035d28e6248f98ea62fd174c91
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
-    projectPath: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
-    projectPath: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
-    projectPath: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
-    projectPath: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
-    projectPath: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
-    projectPath: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
-    projectPath: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
-    projectPath: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
-    projectPath: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
-    projectPath: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
-    projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
-    projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
-    projectPath: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
-    projectPath: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
-    projectPath: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
-    projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+  - path: Library\ArtifactDB-lock
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ArtifactDB-lock
+    projectPath: Library\ArtifactDB-lock
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Artifacts\09\09e13021efa6e1584e23afcc22cad82f
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\Artifacts\09\09e13021efa6e1584e23afcc22cad82f
+    projectPath: Library\Artifacts\09\09e13021efa6e1584e23afcc22cad82f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1e\1e91d10f5cf931bf0de8cf3ae9e3548e
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\Artifacts\1e\1e91d10f5cf931bf0de8cf3ae9e3548e
+    projectPath: Library\Artifacts\1e\1e91d10f5cf931bf0de8cf3ae9e3548e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\38\384aa3e2e7765e92d1f9f171f1ff393e
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\Artifacts\38\384aa3e2e7765e92d1f9f171f1ff393e
+    projectPath: Library\Artifacts\38\384aa3e2e7765e92d1f9f171f1ff393e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\52\522efb9eb20e786d4531f98972a87341
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\Artifacts\52\522efb9eb20e786d4531f98972a87341
+    projectPath: Library\Artifacts\52\522efb9eb20e786d4531f98972a87341
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\557d103eb6260ff6729f86c82db6ae59
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\Artifacts\55\557d103eb6260ff6729f86c82db6ae59
+    projectPath: Library\Artifacts\55\557d103eb6260ff6729f86c82db6ae59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\66\66e103614a0529e04a2eef28149071b4
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\Artifacts\66\66e103614a0529e04a2eef28149071b4
+    projectPath: Library\Artifacts\66\66e103614a0529e04a2eef28149071b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\91\91ab44ac485345f3e53554a9ce7bfb4c
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\Artifacts\91\91ab44ac485345f3e53554a9ce7bfb4c
+    projectPath: Library\Artifacts\91\91ab44ac485345f3e53554a9ce7bfb4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9a173afcebcc35290384b0ff24d873be
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\Artifacts\9a\9a173afcebcc35290384b0ff24d873be
+    projectPath: Library\Artifacts\9a\9a173afcebcc35290384b0ff24d873be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\da\dac6f0932388b31fbf5311a689b8531b
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\Artifacts\da\dac6f0932388b31fbf5311a689b8531b
+    projectPath: Library\Artifacts\da\dac6f0932388b31fbf5311a689b8531b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\EditorInstance.json
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\EditorInstance.json
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\PackageManager\ProjectCache
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\PackageManager\ProjectCache
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\PackageManager\ProjectCache
     projectPath: Library\PackageManager\ProjectCache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\PackageManager\ProjectCache.md5
     projectPath: Library\PackageManager\ProjectCache.md5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Analytics.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Analytics.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Analytics.dll
     projectPath: Library\ScriptAssemblies\Analytics.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Analytics.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Analytics.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Analytics.pdb
     projectPath: Library\ScriptAssemblies\Analytics.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\ScriptAssemblies\Purchasing.Common.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Purchasing.Common.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Purchasing.Common.dll
     projectPath: Library\ScriptAssemblies\Purchasing.Common.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Purchasing.Common.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Purchasing.Common.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Purchasing.Common.pdb
     projectPath: Library\ScriptAssemblies\Purchasing.Common.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
     projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.Timeline.pdb
     projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.Purchasing.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.Purchasing.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.Purchasing.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.Purchasing.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.Purchasing.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.Purchasing.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.Purchasing.pdb
     projectPath: Library\ScriptAssemblies\UnityEditor.Purchasing.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
     projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.UI.pdb
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
     projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Advertisements.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Advertisements.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Advertisements.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Monetization.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Monetization.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Monetization.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Monetization.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Monetization.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Monetization.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Monetization.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Monetization.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.UI.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SourceAssetDB
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\SourceAssetDB
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\SourceAssetDB-lock
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\StateCache\MainStageHierarchy\0a\0ae481795b867589f45f3f8f1c5c12ea.json
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\StateCache\MainStageHierarchy\0a\0ae481795b867589f45f3f8f1c5c12ea.json
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Library\StateCache\MainStageHierarchy\0a\0ae481795b867589f45f3f8f1c5c12ea.json
     projectPath: Library\StateCache\MainStageHierarchy\0a\0ae481795b867589f45f3f8f1c5c12ea.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\33\335f91c7cb53608096cb6119efecb548.json
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\StateCache\SceneView\33\335f91c7cb53608096cb6119efecb548.json
-    projectPath: Library\StateCache\SceneView\33\335f91c7cb53608096cb6119efecb548.json
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+  - path: Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
+  - path: Temp\Analytics.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Analytics.dll.hash
+    projectPath: Temp\Analytics.dll.hash
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\Assembly-CSharp.dll.hash
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Temp\Assembly-CSharp.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Assembly-CSharp.dll.hash
     projectPath: Temp\Assembly-CSharp.dll.hash
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\CompilationLog.txt
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Temp\CompilationLog.txt
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\CompilationLog.txt
     projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\Purchasing.Common.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Purchasing.Common.dll.hash
+    projectPath: Temp\Purchasing.Common.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Sprite.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.2D.Sprite.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Sprite.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Tilemap.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.2D.Tilemap.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Tilemap.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Analytics.DataPrivacy.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.Analytics.DataPrivacy.dll.hash
+    projectPath: Temp\Unity.Analytics.DataPrivacy.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.CollabProxy.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.PlasticSCM.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp\Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Rider.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.Rider.Editor.dll.hash
+    projectPath: Temp\Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.TextMeshPro.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.Timeline.dll.hash
+    projectPath: Temp\Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.Timeline.Editor.dll.hash
+    projectPath: Temp\Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VSCode.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\Unity.VSCode.Editor.dll.hash
+    projectPath: Temp\Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.Purchasing.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEditor.Purchasing.dll.hash
+    projectPath: Temp\UnityEditor.Purchasing.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.SpatialTracking.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEditor.SpatialTracking.dll.hash
+    projectPath: Temp\UnityEditor.SpatialTracking.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.TestRunner.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEditor.TestRunner.dll.hash
+    projectPath: Temp\UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.UI.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEditor.UI.dll.hash
+    projectPath: Temp\UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.XR.LegacyInputHelpers.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEditor.XR.LegacyInputHelpers.dll.hash
+    projectPath: Temp\UnityEditor.XR.LegacyInputHelpers.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Advertisements.DevX.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Advertisements.DevX.Editor.dll.hash
+    projectPath: Temp\UnityEngine.Advertisements.DevX.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Advertisements.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Advertisements.dll.hash
+    projectPath: Temp\UnityEngine.Advertisements.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Advertisements.Editor.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Advertisements.Editor.dll.hash
+    projectPath: Temp\UnityEngine.Advertisements.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Monetization.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Monetization.dll.hash
+    projectPath: Temp\UnityEngine.Monetization.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.AppleCore.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.AppleCore.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.AppleCore.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.AppleMacosStub.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.AppleMacosStub.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.AppleMacosStub.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.AppleStub.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.AppleStub.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.AppleStub.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.Codeless.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.Codeless.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.Codeless.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.SecurityCore.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.SecurityCore.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.SecurityCore.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.SecurityStub.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.SecurityStub.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.SecurityStub.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.Stores.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.Stores.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.Stores.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.WinRTCore.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.WinRTCore.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.WinRTCore.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.Purchasing.WinRTStub.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.Purchasing.WinRTStub.dll.hash
+    projectPath: Temp\UnityEngine.Purchasing.WinRTStub.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.SpatialTracking.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.SpatialTracking.dll.hash
+    projectPath: Temp\UnityEngine.SpatialTracking.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.TestRunner.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.TestRunner.dll.hash
+    projectPath: Temp\UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.UI.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.UI.dll.hash
+    projectPath: Temp\UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.XR.LegacyInputHelpers.dll.hash
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityEngine.XR.LegacyInputHelpers.dll.hash
+    projectPath: Temp\UnityEngine.XR.LegacyInputHelpers.dll.hash
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp\UnityLockfile
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Temp\UnityLockfile
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\UnityTempFile-f667fce281757de4fb73dd9e9fbb7344
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\Temp\UnityTempFile-f667fce281757de4fb73dd9e9fbb7344
-    projectPath: Temp\UnityTempFile-f667fce281757de4fb73dd9e9fbb7344
+  - path: Temp\UnityTempFile-03082e0951755cc4b930ea983350940f
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-03082e0951755cc4b930ea983350940f
+    projectPath: Temp\UnityTempFile-03082e0951755cc4b930ea983350940f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\Mark\Documents\GitHub\Super-Unity-Maker\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
+  - path: Temp\UnityTempFile-07a96ed6c5710254e87d9edf7fb7f55d
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-07a96ed6c5710254e87d9edf7fb7f55d
+    projectPath: Temp\UnityTempFile-07a96ed6c5710254e87d9edf7fb7f55d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0e497cf2a5cf87a4b8718ee76a0672f4
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-0e497cf2a5cf87a4b8718ee76a0672f4
+    projectPath: Temp\UnityTempFile-0e497cf2a5cf87a4b8718ee76a0672f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0f927f20ac2aacd409b5594fb0a1a99e
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-0f927f20ac2aacd409b5594fb0a1a99e
+    projectPath: Temp\UnityTempFile-0f927f20ac2aacd409b5594fb0a1a99e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1015d62f03f33f54ca54ed99b8b03da3
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-1015d62f03f33f54ca54ed99b8b03da3
+    projectPath: Temp\UnityTempFile-1015d62f03f33f54ca54ed99b8b03da3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1490f80aed024eb4386c634027c117e9
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-1490f80aed024eb4386c634027c117e9
+    projectPath: Temp\UnityTempFile-1490f80aed024eb4386c634027c117e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-14c2763b2d31b914b9fd18f8afcfcbb8
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-14c2763b2d31b914b9fd18f8afcfcbb8
+    projectPath: Temp\UnityTempFile-14c2763b2d31b914b9fd18f8afcfcbb8
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-1a72711309a08fe42bd2e675147b156d
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-1a72711309a08fe42bd2e675147b156d
+    projectPath: Temp\UnityTempFile-1a72711309a08fe42bd2e675147b156d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1ab1028e0bd2e3047a9c5d86962b9d3c
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-1ab1028e0bd2e3047a9c5d86962b9d3c
+    projectPath: Temp\UnityTempFile-1ab1028e0bd2e3047a9c5d86962b9d3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-20aa59f64992da84e8b12c79032792dd
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-20aa59f64992da84e8b12c79032792dd
+    projectPath: Temp\UnityTempFile-20aa59f64992da84e8b12c79032792dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3942c24f2d2456c499976bc50f4e7b4a
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-3942c24f2d2456c499976bc50f4e7b4a
+    projectPath: Temp\UnityTempFile-3942c24f2d2456c499976bc50f4e7b4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-49dcff731fa97dc4b81d2c8d1b3fc180
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-49dcff731fa97dc4b81d2c8d1b3fc180
+    projectPath: Temp\UnityTempFile-49dcff731fa97dc4b81d2c8d1b3fc180
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4af3ad26bd72b1d489030036ee2de9fa
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-4af3ad26bd72b1d489030036ee2de9fa
+    projectPath: Temp\UnityTempFile-4af3ad26bd72b1d489030036ee2de9fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4d329df675cbd7a4abfad9f99c209842
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-4d329df675cbd7a4abfad9f99c209842
+    projectPath: Temp\UnityTempFile-4d329df675cbd7a4abfad9f99c209842
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-52966845aed439343aef2cde88c923d6
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-52966845aed439343aef2cde88c923d6
+    projectPath: Temp\UnityTempFile-52966845aed439343aef2cde88c923d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-52dfa40fd480ddb4e842a8155bfc4386
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-52dfa40fd480ddb4e842a8155bfc4386
+    projectPath: Temp\UnityTempFile-52dfa40fd480ddb4e842a8155bfc4386
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-58404ba357f4bb94f98363712178ccff
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-58404ba357f4bb94f98363712178ccff
+    projectPath: Temp\UnityTempFile-58404ba357f4bb94f98363712178ccff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5a7ffa8ed9eafd142bf967dd180d411d
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-5a7ffa8ed9eafd142bf967dd180d411d
+    projectPath: Temp\UnityTempFile-5a7ffa8ed9eafd142bf967dd180d411d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5cdecc6a3d916194fb78becf5021e2ff
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-5cdecc6a3d916194fb78becf5021e2ff
+    projectPath: Temp\UnityTempFile-5cdecc6a3d916194fb78becf5021e2ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5e5bd21b6db78754b826ebd5be53be26
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-5e5bd21b6db78754b826ebd5be53be26
+    projectPath: Temp\UnityTempFile-5e5bd21b6db78754b826ebd5be53be26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-605e1abb31670de48bd4b65a462ceabc
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-605e1abb31670de48bd4b65a462ceabc
+    projectPath: Temp\UnityTempFile-605e1abb31670de48bd4b65a462ceabc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-61394dcd3532a854098e537661f99be1
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-61394dcd3532a854098e537661f99be1
+    projectPath: Temp\UnityTempFile-61394dcd3532a854098e537661f99be1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6e103c5181d3c844fb7fc3c674f085ab
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-6e103c5181d3c844fb7fc3c674f085ab
+    projectPath: Temp\UnityTempFile-6e103c5181d3c844fb7fc3c674f085ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7c7990a3249417d478985cb110471786
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-7c7990a3249417d478985cb110471786
+    projectPath: Temp\UnityTempFile-7c7990a3249417d478985cb110471786
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8317ef38fc39e9543a24b23a04c21782
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-8317ef38fc39e9543a24b23a04c21782
+    projectPath: Temp\UnityTempFile-8317ef38fc39e9543a24b23a04c21782
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8ad40785eb3d7594481d088794aa51ad
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-8ad40785eb3d7594481d088794aa51ad
+    projectPath: Temp\UnityTempFile-8ad40785eb3d7594481d088794aa51ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8aee6822433f2984d90fa0cd591b16b4
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-8aee6822433f2984d90fa0cd591b16b4
+    projectPath: Temp\UnityTempFile-8aee6822433f2984d90fa0cd591b16b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9605c14be3dae1642a855f89aa6048a9
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-9605c14be3dae1642a855f89aa6048a9
+    projectPath: Temp\UnityTempFile-9605c14be3dae1642a855f89aa6048a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-adf10b0e0c4b33c4aaba000c9c2fc95a
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-adf10b0e0c4b33c4aaba000c9c2fc95a
+    projectPath: Temp\UnityTempFile-adf10b0e0c4b33c4aaba000c9c2fc95a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b8e58c9cb76f9f24f9ee8072e94092b5
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-b8e58c9cb76f9f24f9ee8072e94092b5
+    projectPath: Temp\UnityTempFile-b8e58c9cb76f9f24f9ee8072e94092b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bf15b348661cabe4ebbc442a4bf69834
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-bf15b348661cabe4ebbc442a4bf69834
+    projectPath: Temp\UnityTempFile-bf15b348661cabe4ebbc442a4bf69834
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c8a4412761c98fa418d58cc6d9c522f8
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-c8a4412761c98fa418d58cc6d9c522f8
+    projectPath: Temp\UnityTempFile-c8a4412761c98fa418d58cc6d9c522f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ca235086c62a058408b57acf48a39dd7
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-ca235086c62a058408b57acf48a39dd7
+    projectPath: Temp\UnityTempFile-ca235086c62a058408b57acf48a39dd7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cc74c3edecd4845429e3ebf54775fb72
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-cc74c3edecd4845429e3ebf54775fb72
+    projectPath: Temp\UnityTempFile-cc74c3edecd4845429e3ebf54775fb72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cffc80bfd7e78a444b467a23fabee65d
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-cffc80bfd7e78a444b467a23fabee65d
+    projectPath: Temp\UnityTempFile-cffc80bfd7e78a444b467a23fabee65d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d198666fe323ace41a93919a2924a25f
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-d198666fe323ace41a93919a2924a25f
+    projectPath: Temp\UnityTempFile-d198666fe323ace41a93919a2924a25f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e92b464f548d7fd4a92adbf148a86996
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-e92b464f548d7fd4a92adbf148a86996
+    projectPath: Temp\UnityTempFile-e92b464f548d7fd4a92adbf148a86996
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ea7c597d3507e484fad39333d212297d
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-ea7c597d3507e484fad39333d212297d
+    projectPath: Temp\UnityTempFile-ea7c597d3507e484fad39333d212297d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ee9b16593fdb3eb41b5e5abb43cec819
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-ee9b16593fdb3eb41b5e5abb43cec819
+    projectPath: Temp\UnityTempFile-ee9b16593fdb3eb41b5e5abb43cec819
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f667fce281757de4fb73dd9e9fbb7344
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-f667fce281757de4fb73dd9e9fbb7344
+    projectPath: Temp\UnityTempFile-f667fce281757de4fb73dd9e9fbb7344
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-f7754f95bb324a44e9a2211e816d2508
+    fullPath: C:\Users\Mark\Desktop\Super-Unity-Maker\Temp\UnityTempFile-f7754f95bb324a44e9a2211e816d2508
+    projectPath: Temp\UnityTempFile-f7754f95bb324a44e9a2211e816d2508
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
